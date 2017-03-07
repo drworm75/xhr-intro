@@ -1,1 +1,1 @@
-alert("You are running javascript");
+console.log("You are running javascript");
