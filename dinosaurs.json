@@ -1,0 +1,31 @@
+{
+	"dinosaurs": [{
+			"name:": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://www.clker.com/cliparts/e/7/d/4/1419119925724283764trex_charge.jpg"
+		},
+
+		{
+			"name:": "Terry",
+			"type": "Pterodactyl",
+			"food": "monkeys",
+			"url": "http://vignette3.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/32/S5e40_Pterodactyl_Time_with_Finn_%26_Jake.png/revision/latest?cb=20131106155323"
+		},
+
+		{
+			"name:": "Stogie",
+			"type": "Stegosaurus",
+			"food": "Grilled Cheese",
+			"url": "https://thumbs.dreamstime.com/x/stegosaurus-dinosaur-4037749.jpg"
+		},
+
+		{
+			"name:": "Jerry",
+			"type": "Compsognathus",
+			"food": "Soylent Green",
+			"url": "https://en.wikipedia.org/wiki/Compsognathus#/media/File:Compy.jpg"
+		}
+
+	]
+}
